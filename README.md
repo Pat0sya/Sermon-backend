@@ -15,3 +15,7 @@
 git clone https://github.com/Pat0sya/Sermon-backend
 cd sermon-backend
 ```
+Собрать приложение:
+```bash
+go build -o sermon-backend ./cmd/api
+```
